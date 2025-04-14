@@ -9,7 +9,8 @@ A sleek and mobile-responsive stopwatch built with **HTML**, **CSS**, and **Java
 ---
 
 ## 📸 Screenshot
-[screenshot](screenshot.png)
+![Stopwatch Screenshot](screenshot.png)
+
 &#x20;
 
 ---
@@ -39,14 +40,11 @@ A sleek and mobile-responsive stopwatch built with **HTML**, **CSS**, and **Java
 
 ## 🧠 Tech used
 
-. HTML5
- .CSS3
- .JAVASCRIPT
+-.**HTML5**
+-.**CSS3**
+-.**JAVASCRIPT**
 
 ---
-
----
-
 ---
 
  ## 🐵👨 author
